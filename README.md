@@ -3,8 +3,6 @@
 <h3 align="center">Highly Configurable Browser Environment for the Web</h3>
 
 <p align="center">
-	
-<h3 align="center"><img style="border-radius:5px;" alt="screenshot" src="./assets/screenshot.png"></h3>
 
 <br>
 
