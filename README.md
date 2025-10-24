@@ -1,4 +1,4 @@
-<h3 align="center"><img width="80" alt="Browser.js" src="./assets/icon-256.png"></h3>
+<h3 align="center"><img width="80" alt="EdgeLast" src="./Untitled.svg"></h3>
 
 <h3 align="center">Highly Configurable Browser Environment for the Web</h3>
 
